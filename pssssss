@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 01</title>
+</head>
+<body>
+    <h1>Carros Antigos</h1>
+    <p>Fusca</p>
+    <p>brasília</p> 
+    <p>Opala</p> 
+
+    <h1>Carros Atuais</h1>
+    <p>Onix</p>
+    <p>Honda HR-V</p>
+    <p>Jeep</p>
+    <p>Fiat Argo</p>
+
+    <h1>Motos Antigos</h1>
+    <p>Vespa</p>
+    <p>Lambreta</p>
+    <p>Mobilite</p>
+
+    <h1>Motor Atuais</h1>
+
+    
+</body>
+</html>
